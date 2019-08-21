@@ -5,8 +5,10 @@ Repository for the Farsi version of my undergraduate Thesis (SDMiner: A Tool for
 
 Shortcuts:
 
-1 - Thesis Proposal Abstract, in English [(pdf)](https://github.com/ssheikholeslami/undergradthesis-report-farsi/blob/master/2016%20-%20SDMiner%20-%20Bsc%20Thesis%20Proposal%20Abstract.pdf)
+- Thesis Proposal Abstract, in English [(pdf)](https://github.com/ssheikholeslami/undergradthesis-report-farsi/blob/master/2016%20-%20SDMiner%20-%20Bsc%20Thesis%20Proposal%20Abstract.pdf)
 
-2 - Revised version of the thesis, in Farsi [(pdf)](https://github.com/ssheikholeslami/undergradthesis-report-farsi/blob/master/SinaSheikholeslami-BScThesis-RevisedVersion.pdf)
+- Revised version of the thesis (July 2017), in Farsi [(pdf)](https://github.com/ssheikholeslami/undergradthesis-report-farsi/blob/master/SinaSheikholeslami-BScThesis-RevisedVersion.pdf)
 
-3 - Defense session presentation [(pdf)](https://github.com/ssheikholeslami/undergradthesis-report-farsi/blob/master/Presentation.pdf) [(pptx)](https://github.com/ssheikholeslami/undergradthesis-report-farsi/blob/master/Presentation.pptx)
+(This is the version that was submitted to Amirkabir University's library.)
+
+- Defense session presentation [(pdf)](https://github.com/ssheikholeslami/undergradthesis-report-farsi/blob/master/Presentation.pdf) [(pptx)](https://github.com/ssheikholeslami/undergradthesis-report-farsi/blob/master/Presentation.pptx)
